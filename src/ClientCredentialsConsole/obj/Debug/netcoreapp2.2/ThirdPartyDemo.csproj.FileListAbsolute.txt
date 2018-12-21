@@ -1,0 +1,22 @@
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.csprojAssemblyReference.cache
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.csproj.CoreCompileInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfoInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfo.cs
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.deps.json
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.json
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.dev.json
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.pdb
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.pdb
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\bin\Debug\netcoreapp2.2\ThirdPartyDemo.deps.json
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.json
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.dev.json
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\bin\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\bin\Debug\netcoreapp2.2\ThirdPartyDemo.pdb
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\obj\Debug\netcoreapp2.2\ThirdPartyDemo.csprojAssemblyReference.cache
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\obj\Debug\netcoreapp2.2\ThirdPartyDemo.csproj.CoreCompileInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfoInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfo.cs
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\obj\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\ClientCredentialsConsole\obj\Debug\netcoreapp2.2\ThirdPartyDemo.pdb

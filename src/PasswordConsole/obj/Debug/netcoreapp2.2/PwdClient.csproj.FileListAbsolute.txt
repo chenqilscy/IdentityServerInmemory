@@ -1,0 +1,22 @@
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.deps.json
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.runtimeconfig.json
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.runtimeconfig.dev.json
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.dll
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\bin\Debug\netcoreapp2.2\PwdClient.pdb
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.csprojAssemblyReference.cache
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.csproj.CoreCompileInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.AssemblyInfoInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.AssemblyInfo.cs
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.dll
+C:\Users\chenqi_lscy\Desktop\identity server\demo1\PwdClient\obj\Debug\netcoreapp2.2\PwdClient.pdb
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\bin\Debug\netcoreapp2.2\PwdClient.deps.json
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\bin\Debug\netcoreapp2.2\PwdClient.runtimeconfig.json
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\bin\Debug\netcoreapp2.2\PwdClient.runtimeconfig.dev.json
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\bin\Debug\netcoreapp2.2\PwdClient.dll
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\bin\Debug\netcoreapp2.2\PwdClient.pdb
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\obj\Debug\netcoreapp2.2\PwdClient.csprojAssemblyReference.cache
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\obj\Debug\netcoreapp2.2\PwdClient.csproj.CoreCompileInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\obj\Debug\netcoreapp2.2\PwdClient.AssemblyInfoInputs.cache
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\obj\Debug\netcoreapp2.2\PwdClient.AssemblyInfo.cs
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\obj\Debug\netcoreapp2.2\PwdClient.dll
+C:\Users\chenqi_lscy\Desktop\identity server\ClientCredentials + Password\PasswordConsole\obj\Debug\netcoreapp2.2\PwdClient.pdb

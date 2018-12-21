@@ -1,0 +1,149 @@
+{
+	"info": {
+		"_postman_id": "3a15af81-2d56-4d80-a98d-9f050c679fcd",
+		"name": "identity server",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get token [client credentials]",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "client_id",
+							"value": "client",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "client_credentials",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "secret",
+							"type": "text"
+						},
+						{
+							"key": "scope",
+							"value": "api1",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:5000/connect/token",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"connect",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get token [password]",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "client_id",
+							"value": "pwdClient",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "password",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "secret",
+							"type": "text"
+						},
+						{
+							"key": "scope",
+							"value": "api1",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "username",
+							"value": "chenqi",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "123456",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:5000/connect/token",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"connect",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "client-credentials-api/values",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6ImY0NDI1M2IyYzEzYTM2MDhjODhmYTY4NDY5NGM3MmFjIiwidHlwIjoiSldUIn0.eyJuYmYiOjE1NDU0MjA5MDAsImV4cCI6MTU0NTQyNDUwMCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAwIiwiYXVkIjpbImh0dHA6Ly9sb2NhbGhvc3Q6NTAwMC9yZXNvdXJjZXMiLCJhcGkxIl0sImNsaWVudF9pZCI6ImNsaWVudCIsInNjb3BlIjpbImFwaTEiXX0.1F-_UK4Nsh2CZdbn7PMyKGsUdJGlrIbYPPE9K3pvVuaZVNjrrfjzNN58_JJWnsDAxjzH6Ezow64tnShx4nsKCTiXm3-_eMHLSWKgg3qoddg8qj-7dmmYfm0nlC9RK3WtWQeXN5_oRN4Cdizyw8xsz_2ETsnEtljqmQcOVU2OvMcnnVeKwvZiH9tXbfC8E1SzZvCaALoVguanPNqMamd_2ro5uTQ-2LSCefyu3vNX5GddlEErtgxfrktnSQC91ptCNxhSkcX_AfYQmrBTfcLzK9ITtHWZ6vlM2pENhcPXJz1nMUNmGM9mod39P3KjfgZKOaJdHvOHssVfSMiowPk3eA",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:5001/api/values",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"values"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"id": "2ee03183-7c60-4368-bb07-4216127880d4",
+			"key": "token",
+			"value": "",
+			"type": "string"
+		}
+	]
+}
